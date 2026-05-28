@@ -1,4 +1,4 @@
 pyrofork
 tgcrypto
 py-tgcalls
-yt-dlp
+requests
