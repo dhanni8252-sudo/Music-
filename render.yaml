@@ -1,1 +1,7 @@
 
+services:
+  - type: web
+    name: premium-music-bot
+    env: docker
+    plan: free
+    autoDeploy: true
