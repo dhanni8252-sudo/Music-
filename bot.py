@@ -28,7 +28,7 @@ from pytgcalls.types import MediaStream, StreamEnded, Update
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 API_ID         = int(os.environ.get("TELEGRAM_API_ID", "39712134"))
 API_HASH       = os.environ.get("TELEGRAM_API_HASH", "b1647a213b0e804cf8e19587ae055bd7")
-BOT_TOKEN      = os.environ.get("TELEGRAM_BOT_TOKEN", "8964791887:AAHqwxCQHjUmAsWCWZb8ruFwEZAYydRKV7A")
+BOT_TOKEN      = os.environ.get("TELEGRAM_BOT_TOKEN", "8964791887:AAHgDfwcPTdBzgf-Cuy9d1_V99wS-_dltac")
 ADMIN_ID       = int(os.environ.get("ADMIN_ID", "8136495141"))
 STRING_SESSION = os.environ.get("STRING_SESSION", "").strip()
 
